@@ -34,4 +34,4 @@ plt.plot(pre_heights,pre_weights,color = "red",marker = "o",markersize = 10)
 plt.show()
 ```
 ## Result
-![Students](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Students.png)
+![students](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/students.png)
