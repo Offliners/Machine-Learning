@@ -28,6 +28,7 @@ If you are also interesting in machine learning, welcome to see my code and case
     * [Multiple Linear Regression](ML/Linear%20Regression/README.md)
 
 ## Learning Map
+`Yellow is scenario` `Blue is task` `Red is method`
 ![Learning map](https://github.com/Offliners/Machine-Learning/blob/master/ML%20map.png)
 
 ## Reference
