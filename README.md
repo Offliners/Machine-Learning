@@ -18,14 +18,12 @@ If you are also interesting in machine learning, welcome to see my code.
 |Tensorflow|`1.13.1`|
 |Keras|`2.2.4`|
 
-* FAQ
+* FAQ :   How to download Module?
 
-  How to download Module?
+  Open your CMD, and input this command
 
-    Open your CMD, and input this command
-  
-     `pip install (module_name)`
- 
+    `pip install (module_name)`
+   
 ## Outline
   * [Linear Regression](ML/Linear%20Regression)
     * [Simple Linear Regression](ML/Linear%20Regression/README.md)
