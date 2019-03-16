@@ -19,7 +19,8 @@ If you are also interesting in machine learning, welcome to see my code.
 |Keras|`2.2.4`|
 
  * How to download Module?
- `pip install module_name`
+ 
+  `pip install module_name`
  
 ## Outline
   * [Linear Regression](ML/Linear%20Regression)
