@@ -34,3 +34,5 @@ plt.plot(temp,regression_sales,color = "blue")
 plt.plot(pre_temp,pre_sales,color = "red",marker = "o",markersize = 10)
 plt.show()
 ```
+* Result
+![Sales-predict](Linear%20Regression/sales-predict.png)
