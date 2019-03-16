@@ -26,6 +26,8 @@ If you are also interesting in machine learning, welcome to see my code.
  
 ## Outline
   * [Linear Regression](ML/Linear%20Regression)
+    * [Simple Linear Regression](ML/Linear%20Regression/README.md)
+    * [Multiple Linear Regression](ML/Linear%20Regression/README.md)
 
 ## Reference
  * Textbooks
