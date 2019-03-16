@@ -24,7 +24,7 @@ If you are also interesting in machine learning, welcome to see my code and case
 
   Open your CMD, and then input this command `pip install (module_name)`
   
-  2. How to check version of modules?
+  2.How to check version of modules?
   
   Open your CMD， and then input this command `pip list`
    
