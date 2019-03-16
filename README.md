@@ -32,4 +32,4 @@ If you are also interesting in machine learning, welcome to see my code.
    * Python資料科學與人工智慧
  
  * Videos
-   * 台大李宏毅教授Machine Learning :  https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
+   * 台大李宏毅教授Machine Learning
