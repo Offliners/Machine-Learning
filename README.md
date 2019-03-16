@@ -20,3 +20,10 @@ If you are also interesting in machine learning, welcome to see my code.
 
 ## Outline
   * [Linear Regression](ML/Linear%20Regression)
+
+## Reference
+ * Textbooks
+  Python資料科學與人工智慧
+ 
+ * Videos
+  
