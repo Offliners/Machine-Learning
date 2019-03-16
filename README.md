@@ -6,8 +6,10 @@ My ML practice with python
  * Anaconda : https://www.anaconda.com/distribution/
 
 ## Environment
-  * Python `3.7.2`
-  * Matplotlib `3.0.3`
-  * Numpy `1.16.2`
-  * Pandas `0.24.2`
-  * Scikit-learn `0.20.3`
+|Module|Version|
+|-|-|
+|Python|`3.7.2`|
+|Matplotlib|`3.0.3`|
+|Numpy|`1.16.2`|
+|Pandas|`0.24.2`|
+|Scikit-learn|`0.20.3`|
