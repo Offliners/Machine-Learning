@@ -15,3 +15,5 @@ If you are also interesting in machine learning, welcome to see my code.
 |Numpy|`1.16.2`|
 |Pandas|`0.24.2`|
 |Scikit-learn|`0.20.3`|
+|Tensorflow|`1.13.1`|
+|Keras|`2.2.4`|
