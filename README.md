@@ -22,7 +22,7 @@ If you are also interesting in machine learning, welcome to see my code.
 
   Open your CMD, and input this command
   
-   `pip install module_name`
+   `pip install (module_name)`
  
 ## Outline
   * [Linear Regression](ML/Linear%20Regression)
@@ -32,4 +32,4 @@ If you are also interesting in machine learning, welcome to see my code.
    * Python資料科學與人工智慧
  
  * Videos
-  
+   * 台大李宏毅教授Machine Learning :  https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
