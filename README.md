@@ -19,7 +19,8 @@ If you are also interesting in machine learning, welcome to see my code.
 |Keras|`2.2.4`|
 
 * How to download Module?
- 
+
+Open your CMD, and input this command
   `pip install module_name`
  
 ## Outline
