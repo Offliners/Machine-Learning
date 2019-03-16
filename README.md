@@ -27,6 +27,9 @@ If you are also interesting in machine learning, welcome to see my code and case
     * [Simple Linear Regression](ML/Linear%20Regression/README.md)
     * [Multiple Linear Regression](ML/Linear%20Regression/README.md)
 
+## Learning Map
+![Learning map](https://github.com/Offliners/Machine-Learning/blob/master/ML%20map.png)
+
 ## Reference
  * Textbooks
    * Python資料科學與人工智慧
