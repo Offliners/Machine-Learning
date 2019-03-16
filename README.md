@@ -23,7 +23,7 @@ If you are also interesting in machine learning, welcome to see my code.
 
 ## Reference
  * Textbooks
-  Python資料科學與人工智慧
+   * Python資料科學與人工智慧
  
  * Videos
   
