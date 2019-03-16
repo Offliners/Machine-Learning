@@ -8,7 +8,7 @@ My ML practice with python
 ## Environment
 |Module|Version|
 |-|-|
-|Python|`3.7.2`|
+|Python-64-bits|`3.7.2`|
 |Matplotlib|`3.0.3`|
 |Numpy|`1.16.2`|
 |Pandas|`0.24.2`|
