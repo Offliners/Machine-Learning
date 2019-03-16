@@ -25,7 +25,7 @@ If you are also interesting in machine learning, welcome to see my code and case
 
 * 2.How to check version of modules?
 
-   Open your CMD， and then input this command `pip list`
+   Open your CMD，and then input this command `pip list`
    
 ## Outline
   * [Linear Regression](ML/Linear%20Regression)
