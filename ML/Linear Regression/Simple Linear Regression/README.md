@@ -35,4 +35,4 @@ plt.plot(pre_temp,pre_sales,color = "red",marker = "o",markersize = 10)
 plt.show()
 ```
 * Result
-![Sales-predict](Machine-Learning/ML/Linear%20Regression/Sales-predict.png)
+![Sales-predict](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Sales-predict.png)
