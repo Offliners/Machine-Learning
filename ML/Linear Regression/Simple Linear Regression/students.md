@@ -35,3 +35,9 @@ plt.show()
 ```
 ## Result
 ![students](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/students.png)
+
+迴歸係數 :  `0.62513172`
+
+截距 :  `-48.60353530031602`
+
+預測結果 : `150cm，體重預估為45.16622234kg` `160cm，體重預估為51.41753952` `180cm，體重預估為63.92017387` 
