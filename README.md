@@ -30,6 +30,8 @@ If you are also interesting in machine learning, welcome to see my code.
 ## Reference
  * Textbooks
    * Python資料科學與人工智慧
+   * 深度學習-入門教室
  
  * Videos
    * 台大李宏毅教授Machine Learning
+   * 周莫煩機器學習
