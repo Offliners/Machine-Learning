@@ -21,11 +21,11 @@ If you are also interesting in machine learning, welcome to see my code and case
 ## FAQ 
 * 1.How to download modules?
 
-Open your CMD, and then input this command `pip install (module_name)`
+   Open your CMD, and then input this command `pip install (module_name)`
 
 * 2.How to check version of modules?
 
-Open your CMD， and then input this command `pip list`
+   Open your CMD， and then input this command `pip list`
    
 ## Outline
   * [Linear Regression](ML/Linear%20Regression)
