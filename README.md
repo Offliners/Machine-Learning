@@ -1,7 +1,7 @@
 ## Machine-Learning
 My ML practice with python
 
-If you are also interesting in machine learning, welcome to see my code.
+If you are also interesting in machine learning, welcome to see my code and cases.
 
 ## IDE 
  * Visual stdio code : https://code.visualstudio.com/download
