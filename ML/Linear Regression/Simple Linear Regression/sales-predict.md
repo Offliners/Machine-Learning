@@ -36,6 +36,7 @@ plt.show()
 ```
 ## Result
 ![Sales-predict](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Sales-predict.png)
+
 迴歸係數 :  [0.37378855]
 
 截距 :  -3.6361233480176134
