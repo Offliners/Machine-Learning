@@ -18,7 +18,9 @@ If you are also interesting in machine learning, welcome to see my code.
 |Tensorflow|`1.13.1`|
 |Keras|`2.2.4`|
 
-* How to download Module?
+* FAQ
+
+How to download Module?
 
   Open your CMD, and input this command
   
