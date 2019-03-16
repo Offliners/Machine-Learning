@@ -1,4 +1,4 @@
-## 1. Sales Predict 
+## Sales Predict 
 在台北市古亭捷運站旁有一家飲料店，店長紀錄在不同氣溫時的日營業額，如下表所示 : 
 
 |氣溫|29|28|34|31|25|29|32|31|24|33|25|31|26|30|
@@ -34,6 +34,5 @@ plt.plot(temp,regression_sales,color = "blue")
 plt.plot(pre_temp,pre_sales,color = "red",marker = "o",markersize = 10)
 plt.show()
 ```
-* Result
-
+## Result
 ![Sales-predict](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Sales-predict.png)
