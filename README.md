@@ -1,6 +1,8 @@
 ## Machine-Learning
 My ML practice with python
 
+If you are also interesting in machine learning, welcome to see my code.
+
 ## IDE 
  * Visual stdio code : https://code.visualstudio.com/download
  * Anaconda : https://www.anaconda.com/distribution/
