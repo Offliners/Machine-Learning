@@ -40,6 +40,7 @@ If you are also interesting in machine learning, welcome to see my code and case
  * Textbooks
    * Python資料科學與人工智慧
    * 深度學習-入門教室
+   * Python資料科學學習手冊
  
  * Videos
    * 台大李宏毅教授Machine Learning
