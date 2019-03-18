@@ -34,7 +34,11 @@ If you are also interesting in machine learning, welcome to see my code and case
 
    Open your cmd，and then input `pip list`
    
-* 3.How to delete the module installed?
+* 3.How to upgrate the module?
+
+   Open your cmd，and then input `pip install -U (module_name)` or `pip install --upgrate (module_name)`
+   
+* 4.How to delete the module installed?
 
    Open your cmd, and then input `pip uninstall (module_name)`
 
