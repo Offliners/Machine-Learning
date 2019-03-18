@@ -29,7 +29,7 @@ If you are also interesting in machine learning, welcome to see my code and case
    Open your CMD，and then input this command `pip list`
    
 ## Outline
-  * [Numpy]
+  * [Numpy](Numpy/Numpy.md)
   * [Machine Learning](ML/ML.md)
 
 ## Learning Map
