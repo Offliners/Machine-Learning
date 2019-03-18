@@ -1,4 +1,4 @@
   ## Machine Learning
   * Linear Regression
-    * [Simple Linear Regression](ML/Linear%20Regression/README.md)
-    * [Multiple Linear Regression](ML/Linear%20Regression/README.md)
+    * [Simple Linear Regression](Linear%20Regression/README.md)
+    * [Multiple Linear Regression](Linear%20Regression/README.md)
