@@ -28,11 +28,15 @@ If you are also interesting in machine learning, welcome to see my code and case
 ## FAQ 
 * 1.How to download modules?
 
-   Open your cmd, and then input this command `pip install (module_name)`
+   Open your cmd, and then input `pip install (module_name)`
 
 * 2.How to check version of modules?
 
-   Open your cmd，and then input this command `pip list`
+   Open your cmd，and then input `pip list`
+   
+* 3. How to delete the module installed?
+
+   Open your cmd, and then input `pip uninstall (module_name)`
 
 ## Reference
  * Textbooks
