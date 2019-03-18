@@ -3,6 +3,12 @@ I learn ML step by step with python
 
 If you are also interesting in machine learning, welcome to see my code and cases.
 
+## Outline
+  * [Numpy](Numpy/Numpy.md)
+  * Pandas
+  * Matplotlib
+  * [Machine Learning](ML/ML.md)
+
 ## IDE 
  * Visual stdio code : https://code.visualstudio.com/download
  * Anaconda : https://www.anaconda.com/distribution/
@@ -27,12 +33,6 @@ If you are also interesting in machine learning, welcome to see my code and case
 * 2.How to check version of modules?
 
    Open your cmd，and then input this command `pip list`
-   
-## Outline
-  * [Numpy](Numpy/Numpy.md)
-  * Pandas
-  * Matplotlib
-  * [Machine Learning](ML/ML.md)
 
 ## Reference
  * Textbooks
