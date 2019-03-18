@@ -1,5 +1,5 @@
 ## Machine-Learning
-My ML practice with python
+I learn ML step by step with python 
 
 If you are also interesting in machine learning, welcome to see my code and cases.
 
