@@ -30,6 +30,8 @@ If you are also interesting in machine learning, welcome to see my code and case
    
 ## Outline
   * [Numpy](Numpy/Numpy.md)
+  * Pandas
+  * Matplotlib
   * [Machine Learning](ML/ML.md)
 
 ## Learning Map
