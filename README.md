@@ -17,6 +17,7 @@ If you are also interesting in machine learning, welcome to see my code and case
 |Scikit-learn|`0.20.3`|
 |Tensorflow|`1.13.1`|
 |Keras|`2.2.4`|
+|Seaborn|`0.9.0`|
 
 ## FAQ 
 * 1.How to download modules?
