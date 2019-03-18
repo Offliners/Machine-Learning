@@ -30,7 +30,7 @@ If you are also interesting in machine learning, welcome to see my code and case
    
 ## Outline
   * [Numpy]
-  * [Machine Learning]
+  * [Machine Learning](ML/ML.md)
 
 ## Learning Map
 `Yellow is scenario` `Blue is task` `Red is method`
