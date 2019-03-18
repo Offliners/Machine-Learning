@@ -20,13 +20,13 @@ If you are also interesting in machine learning, welcome to see my code and case
 |Seaborn|`0.9.0`|
 
 ## FAQ 
-* 1.How to download modules?
+* 1. How to download modules?
 
-   Open your CMD, and then input this command `pip install (module_name)`
+   Open your cmd, and then input this command `pip install (module_name)`
 
-* 2.How to check version of modules?
+* 2. How to check version of modules?
 
-   Open your CMD，and then input this command `pip list`
+   Open your cmd，and then input this command `pip list`
    
 ## Outline
   * [Numpy](Numpy/Numpy.md)
