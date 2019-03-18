@@ -29,9 +29,8 @@ If you are also interesting in machine learning, welcome to see my code and case
    Open your CMD，and then input this command `pip list`
    
 ## Outline
-  * [Linear Regression](ML/Linear%20Regression)
-    * [Simple Linear Regression](ML/Linear%20Regression/README.md)
-    * [Multiple Linear Regression](ML/Linear%20Regression/README.md)
+  * [Numpy]
+  * [Machine Learning]
 
 ## Learning Map
 `Yellow is scenario` `Blue is task` `Red is method`
