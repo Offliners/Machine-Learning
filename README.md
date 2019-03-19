@@ -17,6 +17,7 @@ If you are also interesting in machine learning, welcome to see my code and case
 |Module|Version|
 |-|-|
 |Python-64-bits|`3.7.2`|
+|Anaconda|`1.9.6`|
 |Matplotlib|`3.0.3`|
 |Numpy|`1.16.2`|
 |Pandas|`0.24.2`|
