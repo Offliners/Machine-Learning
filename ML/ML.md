@@ -1,3 +1,3 @@
   ## Machine Learning
-  * [Linear Regression](ML/linear-regression.md)
+  * [Linear Regression](Linear%20Regression/linear-regression.md)
   * Logistic Regression
