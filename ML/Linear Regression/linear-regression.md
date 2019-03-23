@@ -1,8 +1,10 @@
-#### Linear Regression
+# Linear Regression
+
+## Mathematical Model
 * [Simple Linear Regression](Simple%20Linear%20Regression/Simple-Linear-Regression.md)
 * [Polynomial Basic Functions](Polynomial%20Basic%20Functions/Polynomial-Basic-Functions.md)
 * [Gaussian Basic Functions](Gaussian%20Basic%20Functions/gaussian_basic_functions.md)
 
-# Example
+## Example
 * Bicycle Flow Rate Predict
 * [PM2.5 Predict](PM2.5/PM2.5.md)
