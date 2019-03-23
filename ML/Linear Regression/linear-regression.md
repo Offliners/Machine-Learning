@@ -10,7 +10,7 @@
   * [Overfitting](Overfitting/overfitting.md)
   
 * Corrections
-  * Ridge Regularization(\(L_2\)Regularization)
+  * Ridge Regularization(\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)Regularization)
   * Lasso Regularization(
   $$L_{1}$$
   regularization)
