@@ -10,11 +10,11 @@
   * [Overfitting](Overfitting/overfitting.md)
   
 * Corrections
-  * Ridge Regularization(\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)Regularization)
+  * Ridge Regularization(Regularization)
   * Lasso Regularization(
   $$L_{1}$$
   regularization)
-
+\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
 ## Example
 * Bicycle Flow Rate Predict
 * [PM2.5 Predict](PM2.5/PM2.5.md)
