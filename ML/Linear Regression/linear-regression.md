@@ -10,7 +10,7 @@
   * [Overfitting](Overfitting/overfitting.md)
   
 * Corrections
-  * [Ridge Regularization($L_2$ Regularization)](Ridge%20Regression/ridge-regression.md)
+  * [Ridge Regularization($$L_2$$ Regularization)](Ridge%20Regression/ridge-regression.md)
   * [Lasso Regularization](Lasso%20Regression/lasso-regression.md)
 
 ## Example
