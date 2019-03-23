@@ -10,9 +10,7 @@
   * [Overfitting](Overfitting/overfitting.md)
   
 * Corrections
-  * Ridge Regularization(
-  $$L_{2}$$
-  Regularization)
+  * Ridge Regularization(\(L_{2}\) Regularization)
   * Lasso Regularization(
   $$L_{1}$$
   regularization)
