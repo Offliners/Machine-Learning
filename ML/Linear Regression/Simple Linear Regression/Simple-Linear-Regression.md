@@ -22,6 +22,6 @@ print("Model intercept : ",model.intercept_)
 plt.show()
 ```
 ## Data
-
+![data](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Simple%20Linear%20Regression/data.png)
 ## Model
 ![Simple-Linear-Regression](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Simple%20Linear%20Regression/simple_linear_regression.png)
