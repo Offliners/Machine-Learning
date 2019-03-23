@@ -11,10 +11,10 @@
   
 * Corrections
   * Ridge Regularization(
-  $$L_2$$
+  $$L_{2}$$
   Regularization)
   * Lasso Regularization(
-  $$L_1$$
+  $$L_{1}$$
   regularization)
 
 ## Example
