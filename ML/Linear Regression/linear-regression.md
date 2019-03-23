@@ -14,5 +14,4 @@
   * [Lasso Regularization(L1 Regularization)](Lasso%20Regression/lasso-regression.md)
 
 ## Example
-* Bicycle Flow Rate Predict
 * [PM2.5 Predict](PM2.5/PM2.5.md)
