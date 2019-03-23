@@ -27,4 +27,5 @@ plt.show()
 ![Simple-Linear-Regression](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Simple%20Linear%20Regression/simple_linear_regression.png)
 ## Result
 Model scope     :  2.02720881
+
 Model intercept :  -4.9985770855532
