@@ -10,8 +10,8 @@
   * [Overfitting](Overfitting/overfitting.md)
   
 * Corrections
-  * Ridge Regularization($L_2$ Regularization)
-  * Lasso Regularization($L_1$ regularization)
+  * Ridge Regularization($L_{2}$ Regularization)
+  * Lasso Regularization($L_{1}$ regularization)
 
 ## Example
 * Bicycle Flow Rate Predict
