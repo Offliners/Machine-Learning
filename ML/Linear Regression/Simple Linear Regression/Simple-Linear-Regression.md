@@ -21,3 +21,7 @@ print("Model scope : ",model.coef_)
 print("Model intercept : ",model.intercept_)
 plt.show()
 ```
+## Data
+
+## Model
+[!Simple-Linear-Regression](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Simple%20Linear%20Regression/simple_linear_regression.png)
