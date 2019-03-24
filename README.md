@@ -1,5 +1,11 @@
 # Machine-Learning
+If you are also a machine-learning beginner, 
 
+you can watch videos or read textbooks to understand what machine learning do and the theories in machine learning first, 
+
+and then program code to implemnet machine learning by seeing my codes or projects.
+
+Hope that it will help you! 
 
 ## Outline
   * [Numpy](Numpy/Numpy.md)
