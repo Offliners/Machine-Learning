@@ -1,4 +1,15 @@
 # Linear Regression
+Data :
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+rng = np.random.RandomState(42)
+x = 10 * rng.rand(50)
+y = 2 * x - 1 + rng.randn(50)
+plt.scatter(x, y);
+plt.show()
+```
 * Step 1. Data Preprocessing
 
 * Step 2. Choose a class of model
@@ -27,6 +38,7 @@ yfit = model.predict(Xfit)
 ```python
 plt.scatter(x, y)
 plt.plot(xfit, yfit)
+plt.show()
 ```
 ## Mathematical Model
 * [Simple Linear Regression](Simple%20Linear%20Regression/Simple-Linear-Regression.md)
