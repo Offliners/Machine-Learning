@@ -36,3 +36,5 @@ print(predict_category("sending a payload to the ISS"))
 print(predict_category("discussing islam vs atheism"))
 print(predict_category("determining the screen resolution"))
 ```
+## Model
+![model](https://github.com/Offliners/Machine-Learning/blob/master/ML/Naive%20Bayes%20Classification/Multinomial%20Naive%20Bayes/model.png)
