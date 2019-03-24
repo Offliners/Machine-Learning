@@ -1,4 +1,6 @@
 # Linear Regression
+Take simple linear regression for example
+
 Data :
 ```python
 import matplotlib.pyplot as plt
@@ -10,6 +12,7 @@ y = 2 * x - 1 + rng.randn(50)
 plt.scatter(x, y);
 plt.show()
 ```
+![data](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/data.png)
 * Step 1. Data Preprocessing
 
 * Step 2. Choose a class of model
@@ -40,6 +43,7 @@ plt.scatter(x, y)
 plt.plot(xfit, yfit)
 plt.show()
 ```
+![model](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/model.png)
 ## Mathematical Model
 * [Simple Linear Regression](Simple%20Linear%20Regression/Simple-Linear-Regression.md)
 * [Polynomial Basic Functions](Polynomial%20Basic%20Functions/Polynomial-Basic-Functions.md)
