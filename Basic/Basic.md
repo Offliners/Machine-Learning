@@ -103,3 +103,30 @@ I am hungry
 I am not hungry
 I am sleepy
 ```
+
+### For Statement
+```python
+>>> for i in [1,2,3]:
+	print(i)
+
+	
+1
+2
+3
+```
+
+### Function
+```python
+>>> def hello():
+	print("Hello world!")
+
+	
+>>> hello()
+Hello world!
+>>> def hello(object):
+	print("Hello " + object + "!")
+
+	
+>>> hello("cat")
+Hello cat!
+```
