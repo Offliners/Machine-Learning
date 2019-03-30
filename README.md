@@ -10,6 +10,7 @@ Hope that it will help you!
 ## Outline
   * [Python basic](Basic/Basic.md)
   * [Numpy basic](Numpy/Numpy.md)
+  * [Matplotlib basic]
   * [Machine Learning](ML/ML.md)
 
 ## IDE 
