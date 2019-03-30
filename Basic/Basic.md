@@ -62,4 +62,27 @@
 [1, 2, 3]
 ```
 
+### Dictionary
+```python
+>>> me = {"Height":160} #Build dictionart
+>>> me["Height"] #Get value
+160
+>>> me["Height"] = 180 #Change value
+>>> print(me)
+{'Height': 180}
+```
+
+### Bool Type
+```python
+>>> hungry = True
+>>> sleepy = False
+>>> type(hungry)
+<class 'bool'>
+>>> not hungry
+False
+>>> hungry and sleepy
+False
+>>> hungry or sleepy
+True
+```
 
