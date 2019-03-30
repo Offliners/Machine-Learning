@@ -24,3 +24,25 @@ array([0.5, 0.5, 0.5])
 >>> x / 2.0 #Broadcast
 array([0.5, 1. , 1.5])
 ```
+
+### N-dimensional Array
+```python
+>>> A = np.array([[1,2],[3,4]])
+>>> print(A)
+[[1 2]
+ [3 4]]
+>>> A.shape
+(2, 2)
+>>> A.dtype
+dtype('int32')
+>>> B = np.array([[3,0],[0,6]])
+>>> A + B
+array([[ 4,  2],
+       [ 3, 10]])
+>>> A * B
+array([[ 3,  0],
+       [ 0, 24]])
+>>> A * 10
+array([[10, 20],
+       [30, 40]])
+```
