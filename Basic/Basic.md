@@ -1,2 +1,2 @@
-## Numpy
+## Python Basic
   * president-heights
