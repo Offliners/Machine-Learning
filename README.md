@@ -52,6 +52,7 @@ Hope that it will help you!
    * Python資料科學與人工智慧
    * 深度學習-入門教室
    * Python資料科學學習手冊
+   * Deep Learning 用python進行深度學習的基礎理論實作
  
  * Videos
    * 台大李宏毅教授Machine Learning
