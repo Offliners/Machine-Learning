@@ -8,7 +8,8 @@ and then program code to implemnet machine learning by seeing my codes or projec
 Hope that it will help you! 
 
 ## Outline
-  * Python basic
+  * [Python basic](Basic/Basic.md)
+  * Numpy basic
   * [Machine Learning](ML/ML.md)
 
 ## IDE 
