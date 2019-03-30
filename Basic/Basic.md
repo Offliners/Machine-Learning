@@ -132,6 +132,7 @@ Hello cat!
 ```
 
 ### Class
+* Module
 ```python
 class class-name:
     def __init__(self,parameter,...): #Constructor
@@ -140,4 +141,28 @@ class class-name:
         ...
     def Method-2(self,parameter,...):
         ...
+```
+* Example
+```python
+class Man:
+    def __init__(self,name):
+        self.name = name
+        print("Initilized!")
+        
+    def hello(self):
+        print("Hello " + self.name + "!")
+        
+    def goodbye(self):
+        print("Goode Bye " + self.name + "!")
+
+m = Man("Eric")
+m.hello()
+m.goodbye()
+```
+And then, open cmd and input `python man.py`
+```shell
+C:\Users\ASUS\Desktop>python man.py
+Initilized!
+Hello Eric!
+Goode Bye Eric!
 ```
