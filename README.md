@@ -8,10 +8,13 @@ and then program code to implemnet machine learning by seeing my codes or projec
 Hope that it will help you! 
 
 ## Outline
-  * [Numpy](Numpy/Numpy.md)
+  * [Machine Learning](ML/ML.md)
+  
+## Prior Knowledge
+  * Python basic
+  * Numpy
   * Pandas
   * Matplotlib
-  * [Machine Learning](ML/ML.md)
 
 ## IDE 
  * Visual stdio code : https://code.visualstudio.com/download
