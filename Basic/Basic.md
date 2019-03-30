@@ -108,7 +108,6 @@ I am sleepy
 ```python
 >>> for i in [1,2,3]:
 	print(i)
-
 	
 1
 2
