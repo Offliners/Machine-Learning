@@ -23,10 +23,10 @@
 
 ### Variable
 ```python
->>> x = 10 #default value
->>> print(x) #output x
+>>> x = 10 #Default value
+>>> print(x) #Output x
 10
->>> x = 100 #change value
+>>> x = 100 #Change value
 >>> print(x)
 100
 >>> y = 3.14
@@ -36,4 +36,30 @@
 <class 'float'>
 ```
 
-###
+### Set
+```python
+>>> a = [1,2,3,4,5] #Build set
+>>> print(a) #Output set
+[1, 2, 3, 4, 5]
+>>> len(a) #Length of set
+5
+>>> a[0] #Get the first value
+1
+>>> a[4]
+5
+>>> a[4] = 99 #Change the fourth value
+>>> print(a)
+[1, 2, 3, 4, 99]
+>>> a[0:2] #Get the elements from index-0 to index-2(Not included index-2)
+[1, 2]
+>>> a[1:] #Get the elements from index-1 to the last
+[2, 3, 4, 99]
+>>> a[:3] #Get the elements from the first to index-3(Not included index-3)
+[1, 2, 3]
+>>> a[:-1] #Get the elemetns from the first to the last two
+[1, 2, 3, 4]
+>>> a[:-2] #Get the elemetns from the first to the last three
+[1, 2, 3]
+```
+
+
