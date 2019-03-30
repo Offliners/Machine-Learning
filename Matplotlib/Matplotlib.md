@@ -9,7 +9,7 @@
 [<matplotlib.lines.Line2D object at 0x0000028B90413208>]
 >>> plt.show()
 ```
-![sin-image]
+![sin-image](https://github.com/Offliners/Machine-Learning/blob/master/Matplotlib/Image/sin.png)
 
 ### The Function of pyplot
 ```python
@@ -32,7 +32,7 @@ Text(0.5, 1.0, 'sin & cos')
 <matplotlib.legend.Legend object at 0x000001BA02B82748>
 >>> plt.show()
 ```
-![sin&cos]
+![sin&cos](https://github.com/Offliners/Machine-Learning/blob/master/Matplotlib/Image/sin%26cos.png)
 
 ### Show Image
 ```python
@@ -42,4 +42,4 @@ img = imread("NTNU.png")
 plt.imshow(img)
 plt.show()
 ```
-![NTNU-show]
+![NTNU-show](https://github.com/Offliners/Machine-Learning/blob/master/Matplotlib/Image/NTNU-show.png)
