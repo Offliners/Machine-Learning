@@ -9,7 +9,7 @@ Hope that it will help you!
 
 ## Outline
   * [Python basic](Basic/Basic.md)
-  * Numpy basic
+  * [Numpy basic](Numpy/Numpy.md)
   * [Machine Learning](ML/ML.md)
 
 ## IDE 
