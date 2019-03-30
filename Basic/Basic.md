@@ -86,3 +86,19 @@ False
 True
 ```
 
+### If Statement
+```python
+>>> hungry = True
+>>> if hungry:
+	      print("I am hungry")
+
+I am hungry
+>>> hungry = False
+>>> if hungry:
+	      print("I am hungry")
+    else:
+        print("I am not hungry")
+        print("I am sleepy")
+I am not hungry
+I am sleepy
+```
