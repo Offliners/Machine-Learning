@@ -130,3 +130,14 @@ Hello world!
 >>> hello("cat")
 Hello cat!
 ```
+
+### Class
+```python
+class class-name:
+    def __init__(self,parameter,...): #Constructor
+        ...
+    def Method-1(self,parameter,...):
+        ...
+    def Method-2(self,parameter,...):
+        ...
+```
