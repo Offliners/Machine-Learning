@@ -103,3 +103,24 @@ print(Or(0,1)) #Output 1
 print(Or(1,0)) #Output 1
 print(Or(1,1)) #Output 1
 ```
+
+# Multi-Layered Perceptron
+### XOR Gate
+|x1|x2|s1|s2|y|
+|-|-|-|-|-|
+|0|0|1|0|0|
+|0|1|1|1|1|
+|1|0|1|1|1|
+|1|1|0|1|1|
+```python
+def XOR(x1,x2):
+    s1 = NAND(x1,x2)
+    s2 = Or(x1,x2)
+    y = And(s1,s2)
+    return y
+
+print(XOR(0,0)) #Output 0
+print(XOR(0,1)) #Output 1
+print(XOR(1,0)) #Output 1
+print(XOR(1,1)) #Output 0
+```
