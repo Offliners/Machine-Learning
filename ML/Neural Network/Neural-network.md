@@ -274,4 +274,4 @@ def softmax(a):
 ```
 
 ## Example
-* MNIST data
+* [MNIST data](MNIST/MNIST.md)
