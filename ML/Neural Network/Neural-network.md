@@ -13,7 +13,7 @@ plt.plot(x,y)
 plt.ylim(-0.1,1.1) #Set range of y
 plt.show()
 ```
-![step_function]
+![step_function](https://github.com/Offliners/Machine-Learning/blob/master/ML/Neural%20Network/Image/step_function.png)
 
 ### Sigmoid Function
 ```python
@@ -29,7 +29,7 @@ plt.plot(x,y)
 plt.ylim(-0.1,1.1) #Set range of y
 plt.show()
 ```
-![sigmoid]
+![sigmoid](https://github.com/Offliners/Machine-Learning/blob/master/ML/Neural%20Network/Image/sigmoid.png)
 
 ### ReLU(Rectified Linear Unit) Function
 ```python
@@ -45,4 +45,4 @@ plt.plot(x,y)
 plt.ylim(-1,5) #Set range of y
 plt.show()
 ```
-![ReLU]
+![ReLU](https://github.com/Offliners/Machine-Learning/blob/master/ML/Neural%20Network/Image/ReLU.png)
