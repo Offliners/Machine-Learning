@@ -3,4 +3,4 @@
 * [Naive Bayes Classification](Naive%20Bayes%20Classification/naive-bayes-classification.md)
 
 # Deep Learning
-* [Perceptron]
+* [Perceptron](Perceptron/Perceptron.md)
