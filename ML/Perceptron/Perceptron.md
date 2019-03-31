@@ -1,4 +1,5 @@
 # Perceptron
+$$\begin{Bmatrix}1 & 2\\\\3 &4\end{Bmatrix}$$
 ### And Gate
 |x1|x2|y|
 |-|-|-|
