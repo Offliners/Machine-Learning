@@ -208,3 +208,15 @@ x = np.array([1.0,0.5])
 y = forward(network,x)
 print(y) #[0.31682708 0.69627909]
 ```
+
+## Output Layer Design
+### Softmax Function
+```python
+import numpy as np
+
+def softmax(a):
+    exp_a = np.exp(a)
+    sum = np.sum(exp_a)
+    y = exp_a / sum
+    return y
+```
