@@ -1,6 +1,4 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # Perceptron
-$$\begin{Bmatrix}1 & 2\\\\3 &4\end{Bmatrix}$$
 ### And Gate
 |x1|x2|y|
 |-|-|-|
