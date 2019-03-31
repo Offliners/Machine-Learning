@@ -55,6 +55,12 @@ print(And(1,1)) #Output 1
 ```
 
 ### NAND Gate
+|x1|x2|y|
+|-|-|-|
+|0|0|1|
+|0|1|1|
+|1|0|1|
+|1|1|0|
 ```python
 import numpy as np
 def NAND(x1,x2):
@@ -67,8 +73,33 @@ def NAND(x1,x2):
     else:
         return 1
 
-print(NAND(0,0)) #Output 0
-print(NAND(0,1)) #Output 0
-print(NAND(1,0)) #Output 0
-print(NAND(1,1)) #Output 1
+print(NAND(0,0)) #Output 1
+print(NAND(0,1)) #Output 1
+print(NAND(1,0)) #Output 1
+print(NAND(1,1)) #Output 0
+```
+
+### Or Gate
+|x1|x2|y|
+|-|-|-|
+|0|0|0|
+|0|1|1|
+|1|0|1|
+|1|1|1|
+```python
+import numpy as np
+def Or(x1,x2):
+    x = np.array([x1,x2])
+    w = np.array([0.5,0.5]) #Only weight and bias different from And gate
+    b = -0.2
+    tmp =  np.sum(w*x) + b
+    if tmp <= 0:
+        return 0
+    else:
+        return 1
+
+print(Or(0,0)) #Output 0
+print(Or(0,1)) #Output 1
+print(Or(1,0)) #Output 1
+print(Or(1,1)) #Output 1
 ```
