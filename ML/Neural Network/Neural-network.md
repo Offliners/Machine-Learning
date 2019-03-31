@@ -1,4 +1,5 @@
 # Neural Network(NN)
+## Activation Function
 ### Step Function
 ```python
 import numpy as np
