@@ -23,7 +23,7 @@ def mean_squared_error(y,t):
 import numpy as np
 
 def cross_entropy_error(y,t):
-    delta = 1e-7
+    delta = 1e-7 #Prevent from negative infinite
     return -np.sum(t * np.log(y + delta))
 ```
 * Test
