@@ -49,4 +49,7 @@ img_show(img)
 ```
 ![MINST Show]
 
-###
+### MINST Batch processing
+```python
+
+```
