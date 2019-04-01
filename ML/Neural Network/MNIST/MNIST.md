@@ -1,5 +1,5 @@
 # MNIST
-Use mnist.py to load MNIST dataset
+Use `mnist.py` to load MNIST dataset
 
 ### MNIST Datatype
 ```python
