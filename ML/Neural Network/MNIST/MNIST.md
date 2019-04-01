@@ -1,7 +1,7 @@
 # MNIST
-Use [`minst.py`](MINST/minst.py) to load MINST dataset
+Use [`mnist.py`](MINST/mnist.py) to load MNIST dataset
 
-### MINST Datatype
+### MNIST Datatype
 ```python
 import sys,os
 sys.path.append(os.pardir)
@@ -22,7 +22,7 @@ print(t_test.shape)
 (10000,)
 ```
 
-### MINST Show
+### MNIST Show
 ```python
 import sys,os
 sys.path.append(os.pardir)
@@ -49,9 +49,8 @@ img_show(img)
 (784,)
 (28, 28)
 ```
-![MINST Show]
 
-### MINST Neural Network
+### MNIST Neural Network
 ```python
 import sys,os
 sys.path.append(os.pardir)
@@ -114,7 +113,7 @@ print("Accuracy : " + str(float(accuracy_cnt)/len(x)))
 3
 ```
 
-### MINST Batch processing
+### MNIST Batch processing
 ```python
 import sys,os
 sys.path.append(os.pardir)
