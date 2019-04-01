@@ -1,5 +1,5 @@
 # MNIST
-Use [`minst.py`](minst.py) to load MINST dataset
+Use [`minst.py`](MINST/minst.py) to load MINST dataset
 
 ### MINST Datatype
 ```python
