@@ -1,4 +1,6 @@
 # MNIST
+Use [`minst.py`](minst.py) to load MINST dataset
+
 ### MINST Datatype
 ```python
 import sys,os
