@@ -93,6 +93,25 @@ print("Accuracy : " + str(float(accuracy_cnt)/len(x)))
 * Result
 `Accuracy : 0.9352`
 
+### Batch
+```python
+>>> list(range(0,10))
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+>>> list(range(0,10,3))
+[0, 3, 6, 9]
+>>> import numpy as np
+>>> x = np.array([[0.1,0.8,0.1],[0.3,0.1,0.6],[0.2,0.5,0.3],[0.8,0.1,0.1]])
+>>> y = np.argmax(x,axis = 1)
+>>> print(y)
+[1 2 1 0]
+>>> y = np.array([1,2,1,0])
+>>> t = np.array([1,2,0,0])
+>>> print(y ==t)
+[ True  True False  True]
+>>> np.sum(y == t)
+3
+```
+
 ### MINST Batch processing
 ```python
 import sys,os
