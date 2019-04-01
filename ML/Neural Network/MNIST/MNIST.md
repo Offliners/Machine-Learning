@@ -1,5 +1,5 @@
 # MNIST
-Use [mnist.py](Machine-Learning/ML/Neural%20Network/MNIST/mnist.py) to load MNIST dataset
+Use mnist.py to load MNIST dataset
 
 ### MNIST Datatype
 ```python
