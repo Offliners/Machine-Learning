@@ -47,3 +47,35 @@ def cross_entropy_error(y,t):
     batch_size = y.shape[0]
     return -np.sum(np.log(y[np.arange(batch_size),t] + 1e-7))/batch_size
 ```
+
+## Numerical Differentiation
+### Differentiation
+```python
+def numerical_diff(f,x):
+	h = 1e-4 #0.0001
+	return (f(x+h)-f(x-h)) / (2 * h)
+```
+* Example
+```python
+def function_1(x):
+    return 0.01 * x**2 + 0.1 * x
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.arange(0.0,20.0,0.1) #The range of array from 0 to 20 per 0.1 unit
+y = function_1(x)
+plt.xlabel("x")
+plt.ylabel("f(x)")
+plt.plot(x,y)
+plt.show()
+```
+![function-1]
+```python
+>>> numerical_diff(function_1,5)
+0.1999999999990898
+>>> numerical_diff(function_1,10)
+0.2999999999986347
+```
+
+### Gradient
