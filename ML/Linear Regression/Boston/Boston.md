@@ -28,6 +28,7 @@ plt.show()
 
 * Heat Map
 ```python
+import numpy as np
 import seaborn as sns
 cm = np.corrcoef(df[cols].values.T)
 sns.set(font_scale=1.5)
@@ -38,6 +39,8 @@ plt.show()
 
 ### Model
 ```python
+from sklearn.preprocessing import StandardScaler 
+import GD
 X = df[["RM"]].values
 y = df[["MEDV"]].values
 
