@@ -29,7 +29,7 @@
 
 * `MEDV` : 自用住宅的房價中位數(單位 : 1000美金)
 
-### Show Data
+## Show Data
 * Head Data
 ```python
 import pandas as pd
@@ -67,9 +67,10 @@ plt.show()
 ```
 ![heat-map](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Boston/Heat-Map.png)
 
-### Method
+## Method
 * Gradient Decent  [(code link)](Boston_GD.py)
 
 ![LossFunction](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Boston/Boston-Loss.png)
 ![Model](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Boston/model.png)
 
+* Scikit Learn
