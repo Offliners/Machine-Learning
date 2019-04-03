@@ -29,6 +29,7 @@
 
 * `MEDV` : 自用住宅的房價中位數(單位 : 1000美金)
 
+[Data Link](housing.data.txt)
 ## Show Data
 * Head Data
 ```python
