@@ -76,4 +76,4 @@ plt.show()
 
 * Scikit Learn  [(code link)](Boston_Sklearn.py)
 
-![Sklearn-Model]
+![Sklearn-Model](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Boston/sklearn_model.png)
