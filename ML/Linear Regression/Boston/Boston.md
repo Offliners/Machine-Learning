@@ -24,7 +24,7 @@ sns.pairplot(df[cols],size = 2.5)
 plt.tight_layout()
 plt.show()
 ```
-![Scatter]
+![Scatter](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Boston/Scatter.png)
 
 * Heat Map
 ```python
@@ -35,9 +35,11 @@ sns.set(font_scale=1.5)
 hm = sns.heatmap(cm,cbar=True,annot=True,square=True,fmt=".2f",annot_kws={"size":15},yticklabels=cols,xticklabels=cols)
 plt.show()
 ```
-![heat-map]
+![heat-map](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Boston/Heat-Map.png)
 
 ### Method
 * Gradient Decent
-![LossFunction]
-![Model]
+
+![LossFunction](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Boston/Boston-Loss.png)
+
+![Model](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Boston/model.png)
