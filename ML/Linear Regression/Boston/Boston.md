@@ -39,6 +39,7 @@ plt.show()
 
 ### Method
 * Gradient Decent  [(code link)](Boston_GD.py)
+
 ![LossFunction](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Boston/Boston-Loss.png)
 ![Model](https://github.com/Offliners/Machine-Learning/blob/master/ML/Linear%20Regression/Boston/model.png)
 
