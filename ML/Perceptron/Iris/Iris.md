@@ -146,4 +146,4 @@ ax[1].set_title("Adaline - Learning rate 0.0001")
 
 plt.show()
 ```
-![Comparison]
+![Comparison](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/Comparison.png)
