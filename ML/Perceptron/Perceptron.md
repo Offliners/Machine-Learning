@@ -307,6 +307,3 @@ print(XOR(0,1)) #Output 1
 print(XOR(1,0)) #Output 1
 print(XOR(1,1)) #Output 0
 ```
-
-# Example
-* [Iris](Iris/Iris.md)
