@@ -64,8 +64,8 @@ plt.show()
 
 * Stochastic Gradient Descent [(code link)](iris_SGD.py)
 
-![SGD_Classification]
-![SGD_loss]
+![SGD_Classification](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/SGD_classification.png)
+![SGD_loss](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/SGD_loss.png)
 
 * Scikit Learn [(code link)](iris_sklearn.py)
 
