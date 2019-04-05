@@ -153,8 +153,26 @@ class Perceptron(object):
         return np.where(self.net_input(X) >= 0.0, 1 , -1)
 ```        
 
-### Adative Linear Neuron(Adaline)
-```pythno
+### Adative Linear Neuron(Adaline) [(code link)](AdalineGD.py)
+```
+ADAptive LInear NEuron classifier.
+    Parameters
+    ------------
+    eta : float
+      Learning rate (between 0.0 and 1.0)
+    n_iter : int
+      Passes over the training dataset.
+    random_state : int
+      Random number generator seed for random weight
+      initialization.
+    Attributes
+    -----------
+    w_ : 1d-array
+      Weights after fitting.
+    cost_ : list
+      Sum-of-squares cost function value in each epoch.
+```
+```python
 import numpy as np
 
 class AdalineGD(object):
