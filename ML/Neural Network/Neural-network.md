@@ -272,6 +272,3 @@ def softmax(a):
 >>> np.sum(y)
 1.0
 ```
-
-## Example
-* [MNIST data](MNIST/MNIST.md)
