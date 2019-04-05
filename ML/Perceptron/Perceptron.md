@@ -135,6 +135,8 @@ class Perceptron(object):
         return np.where(self.net_input(X) >= 0.0, 1 , -1)
 ```        
 
+### Adative Linear Neuron(Adaline)
+
 # Multi-Layered Perceptron
 ### XOR Gate
 |x1|x2|s1|s2|y|
