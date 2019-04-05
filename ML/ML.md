@@ -9,5 +9,5 @@
 
 # Example
 * [Boston](Boston/Boston.md)
-* [Iris](Iris/iris.md)
+* [Iris](Iris/Iris.md)
 * [MINST]
