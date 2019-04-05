@@ -3,7 +3,7 @@
 * [Naive Bayes Classification](Naive%20Bayes%20Classification/naive-bayes-classification.md)
 
 # Function
-* [Gradient Descent(GD)]
+* [Gradient Descent(GD)](GD/GD.py)
 
 # Deep Learning
 * [Perceptron](Perceptron/Perceptron.md)
