@@ -59,7 +59,3 @@ plt.show()
 * Corrections
   * [Ridge Regularization(L2 Regularization)](Ridge%20Regression/ridge-regression.md)
   * [Lasso Regularization(L1 Regularization)](Lasso%20Regression/lasso-regression.md)
-
-## Example
-* [PM2.5 Predict](PM2.5/PM2.5.md)
-* [Boston](Boston/Boston.md)
