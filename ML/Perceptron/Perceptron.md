@@ -157,4 +157,4 @@ print(XOR(1,1)) #Output 0
 ```
 
 # Example
-* [Iris]
+* [Iris](Perceptron/Iris.md)
