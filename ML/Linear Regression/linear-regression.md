@@ -48,7 +48,6 @@ plt.show()
 * [Simple Linear Regression](Simple%20Linear%20Regression/Simple-Linear-Regression.md)
 * [Polynomial Basic Functions](Polynomial%20Basic%20Functions/Polynomial-Basic-Functions.md)
 * [Gaussian Basic Functions](Gaussian%20Basic%20Functions/gaussian_basic_functions.md)
-* [Gradient Descent(GD)](GD/GD.md)
 
 ## Problems and Corrections
 * Problem
