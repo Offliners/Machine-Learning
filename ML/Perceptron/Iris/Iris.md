@@ -68,4 +68,5 @@ plt.show()
 ![SGD_loss]
 
 * Scikit Learn [(code link)](iris_sklearn.py)
+
 ![sklearn_classification](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/sklearn_classification.png)
