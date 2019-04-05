@@ -214,5 +214,5 @@ plt.xlabel("Epochs")
 plt.ylabel("sum-squared-error")
 plt.show()
 ```
-![standard_classification] (https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/standard_classification.png)
+![standard_classification](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/standard_classification.png)
 ![standard_loss](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/standard_loss.png)
