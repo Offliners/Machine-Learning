@@ -104,7 +104,7 @@ print(Or(1,0)) #Output 1
 print(Or(1,1)) #Output 1
 ```
 
-### Perceptron
+### Perceptron [(code link)](Perceptron/Perceptron.py)
 ```
 Perceptron classifier.
     Parameters
