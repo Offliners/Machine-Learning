@@ -42,31 +42,31 @@ plt.ylabel("petal length [cm]")
 plt.legend(loc="upper left")
 plt.show()
 ```
-![ShowPlot](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/showplot.png)
+![ShowPlot](https://github.com/Offliners/Machine-Learning/blob/master/ML/Iris/showplot.png)
 
 ## Method
 * Misclassificantion Perceptron [(code link)](iris_perceptron.py)
 
-![Misclassification](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/misclassification.png)
+![Misclassification](https://github.com/Offliners/Machine-Learning/blob/master/ML/Iris/misclassification.png)
 
 * Plot Decision Regions [(code link)](iris_plot_decision_regions.py)
 
-![decision_regions](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/classifier.png)
+![decision_regions](https://github.com/Offliners/Machine-Learning/blob/master/ML/Iris/classifier.png)
 
 * Adaline Learning Rate Comparison [(code link)](iris_adaline_comparison.py)
 
-![Comparison](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/Comparison.png)
+![Comparison](https://github.com/Offliners/Machine-Learning/blob/master/ML/Iris/Comparison.png)
 
 * Improve Gradient Descent with Standardization [(code link)](iris_GD_standardization.py)
 
-![standard_classification](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/standard_classification.png)
-![standard_loss](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/standard_loss.png)
+![standard_classification](https://github.com/Offliners/Machine-Learning/blob/master/ML/Iris/standard_classification.png)
+![standard_loss](https://github.com/Offliners/Machine-Learning/blob/master/ML/Iris/standard_loss.png)
 
 * Stochastic Gradient Descent [(code link)](iris_SGD.py)
 
-![SGD_Classification](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/SGD_classification.png)
-![SGD_loss](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/SGD_loss.png)
+![SGD_Classification](https://github.com/Offliners/Machine-Learning/blob/master/ML/Iris/SGD_classification.png)
+![SGD_loss](https://github.com/Offliners/Machine-Learning/blob/master/ML/Iris/SGD_loss.png)
 
 * Scikit Learn [(code link)](iris_sklearn.py)
 
-![sklearn_classification](https://github.com/Offliners/Machine-Learning/blob/master/ML/Perceptron/Iris/sklearn_classification.png)
+![sklearn_classification](https://github.com/Offliners/Machine-Learning/blob/master/ML/Iris/sklearn_classification.png)
