@@ -111,7 +111,7 @@ import numpy as np
 class Perceptron(object):
     def __init__(self,eta=0.01,n_iter=50,random_state=1):
         self.eta = eta
-        self.n_iter = 50
+        self.n_iter = n_iter
         self.random_state = random_state
 
     def fit(self,X,y):
@@ -129,7 +129,7 @@ class Perceptron(object):
         return self
 
     def net_input(self,X):
-        return np.dot(X,self.w_[1:] + self.w_[0])
+        return np.dot(X,self.w_[1:]) + self.w_[0]
 
     def predict(self,X):
         return np.where(self.net_input(X) >= 0.0, 1 , -1)
