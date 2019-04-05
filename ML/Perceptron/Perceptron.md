@@ -153,7 +153,7 @@ class Perceptron(object):
         return np.where(self.net_input(X) >= 0.0, 1 , -1)
 ```        
 
-### Adative Linear Neuron(Adaline) with Gradient Descent[(code link)](AdalineGD.py)
+### Adative Linear Neuron(Adaline) with Gradient Descent [(code link)](AdalineGD.py)
 ```
 ADAptive LInear NEuron classifier.
     Parameters
@@ -226,7 +226,7 @@ class AdalineGD(object):
         return np.where(self.activation(self.net_input(X)) >= 0.0, 1, -1)
 ```
 
-### Adative Linear Neuron(Adaline) with Stochastic Gradient Descent[(code link)](AdalineSGD.py)
+### Adative Linear Neuron(Adaline) with Stochastic Gradient Descent [(code link)](AdalineSGD.py)
 ```python
 import numpy as np
 
