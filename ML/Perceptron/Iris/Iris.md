@@ -282,3 +282,6 @@ plt.show()
 
 ![SGD_Classification]
 ![SGD_loss]
+
+* Scikit Learn
+![sklearn_classification]
