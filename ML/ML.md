@@ -8,6 +8,6 @@
 * [Neural Network Learning](Neural%20Network%20Learning/neural-network-learning.md)
 
 # Example
-* [Boston]
+* [Boston](Boston/Boston.md)
 * [Iris]
 * [MINST]
