@@ -50,7 +50,7 @@ plt.show()
 * [Gaussian Basic Functions](Gaussian%20Basic%20Functions/gaussian_basic_functions.md)
 
 ## Optimization
-* [Gradient Descent(GD)](Function/GD.py)
+* [Gradient Descent(GD)](Optimization/GD.py)
 
 ## Problems and Corrections
 * Problem
