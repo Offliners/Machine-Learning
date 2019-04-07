@@ -30,6 +30,7 @@ Hope that it will help you!
 |Keras|`2.2.4`|
 |Seaborn|`0.9.0`|
 |Pillow|`5.4.1`|
+|tensorflow-gpu|`1.13.1`|
 
 ## FAQ 
 * 1.How to download modules?
